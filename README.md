@@ -1,1 +1,4 @@
-# HorLOS
+This project is a bootsector "game" of higher and lower, it's my first time ever coding anything in assembly so I thought I should go with something simple and the first thing that came to mind was Higher or Lower, a simple game of chance.
+For the research of my project I was slightly discouraged by the lack of tutorials compared to higher level languages but for my little project I learned all that I needed to know from [http://www.osdev.org/](url). and  Introduction to 8086/8088 Assembly Language Programming for Engineers by Noel M. Morris.
+Pleae note: I've never actaully tested this on real hardware so unless you are brave, I wouldn't touch it 
+Thanks for looking at my page as of writing this, this is my first ever time posting anything on github but if this is in the future I'd be very happy if you had a look at my other projects aswell.
